@@ -1,10 +1,10 @@
 ## BCA syllabus 
 #semester-1
 <p>
-  BCA 111 - fundamentals of computer<br>
-  BCA 112 - problem soving with c programming<br>
-  BCA 113 - Applied mathamatics<br>
-  BCA 114 - Business communication<br>
+  BCA 111 -FUNDAMENTALS OF COMPUTER<br>
+  BCA 112 - PROBLEM SOLVING & C PROGRAMMING<br>
+  BCA 113 - APPLIED MATHAMATICS<br>
+  BCA 114 - BUSINESS COMMUNICATION<br>
 </p>
 #semester - 2<br>
 <p>
@@ -25,3 +25,29 @@ BCA 241 - OBJECT ORIENTED PROGRAMMING & C++<br>
 BCA 242 -COMPUTER NETWORKING AND WEB TECHNOLOGY<br> 
 BCA 243 - SOFTWARE MODELING DESIGN AND TESTING<br>
 </P>
+# SEMESTER - 5<BR>
+<p>
+  BCA351-DSE I (Programming in Java)<BR>
+  BCA352-DSE II (Data Mining and Data Science)<BR>
+  BCA353 - DSE III (Principles of Operating Systems)<BR>
+  BCA354 SEC I (Artificial Intelligence)<BR>
+  BCA355-SEC II (Cloud Computing)<BR>
+</p>
+#Semester-VI
+<P>
+  BCA361 - DSE IV Android Programming <br>
+  BCA362 - DSE V Programming in GO<br>
+  BCA363 - DSE VI Software Project Management<br>
+  BCA364 - SEC III Management Information Systems<br> 
+  BCA365 - SEC IV Internet of Things (IoT)<br>
+</P>
+
+
+
+
+
+
+
+
+
+
