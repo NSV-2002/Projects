@@ -10,9 +10,9 @@
 
     <h1>Jai Shree Ram Generator</h1>
 
-    <form id="loveForm">
-        <label for="luv">Enter the number of times you want to say:</label>
-        <input type="number" id="luv" name="luv" required>
+    <form id="shreeram">
+        <label for="ram">Enter the number of times you want to say:</label>
+        <input type="number" id="ram" name="ram" required>
         <button type="button" onclick="printJaiShreeRam()">Generate</button>
     </form>
 
@@ -20,10 +20,10 @@
 
     <script>
         function printJaiShreeRam() {
-            let luvInput = document.getElementById("luv");
-            let luv = parseInt(luvInput.value);
+            let ramInput = document.getElementById("ram");
+            let ram = parseInt(ramInput.value);
 
-            if (isNaN(luv) || luv <= 0) {
+            if (isNaN(ram) || ram <= 0) {
                 alert("Please enter a valid positive number.");
                 return;
             }
@@ -31,7 +31,7 @@
             let outputDiv = document.getElementById("output");
             outputDiv.innerHTML = ""; // Clear previous output
 
-            for (let i = 1; i <= luv; i++) {
+            for (let i = 1; i <= ram; i++) {
                 let jaiShreeRamMessage = document.createElement("p");
                 jaiShreeRamMessage.textContent = "Jai Shree Ram!!!";
                 outputDiv.appendChild(jaiShreeRamMessage);
