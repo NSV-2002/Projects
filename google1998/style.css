@@ -1,0 +1,42 @@
+body{
+     tab-size: 30cm;
+     text-align: center;
+     div{
+        background-color:rgb(235, 233, 233);
+        padding: 1px;
+        p{
+            margin: 0%;
+        }
+    }
+     div#foot{
+            padding: 10px;
+            padding-top: 0%;
+            padding-bottom: 5px;
+       p#get{
+        padding: 10px;
+        text-transform: capitalize;
+        
+       }        
+     }
+     a#about{
+        color: rgb(35, 125, 242);
+        font-size: x-large;
+        
+     }
+    div#link{  
+        background-color: white;
+        a{
+            color:  rgb(2, 161, 254);
+          padding-bottom: 1%;
+           }
+          
+    }
+    
+    a{
+        color:  rgb(2, 161, 254);
+       }
+      
+
+    }
+
+
