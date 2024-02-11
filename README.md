@@ -1,8 +1,8 @@
-# My Projects Repository
+# My Projects Repository 😎
 
 Welcome to my projects repository! This repository contains a collection of my personal projects, ranging from small scripts to larger applications. Each project is designed to showcase my skills and interests in various domains.
 
-## Table of Contents
+## Table of Contents 🤨
 
 - [Introduction](#introduction)
 - [Projects](#projects)
@@ -10,11 +10,12 @@ Welcome to my projects repository! This repository contains a collection of my p
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Introduction😊
 
 In this repository, you'll find a variety of projects that I've worked on. These projects cover a range of topics and technologies, including but not limited to web development, machine learning, data analysis, and more.
 
-## Projects
+## Projects![Uploading CatWorkGIF.gif…]()
+
 
 ### [Jai Shree ram generator](https://github.com/NSV-2002/projects/tree/main/shree%20ram)
 
