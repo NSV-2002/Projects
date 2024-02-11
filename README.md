@@ -2,7 +2,7 @@
 
 Welcome to my projects repository! This repository contains a collection of my personal projects, ranging from small scripts to larger applications. Each project is designed to showcase my skills and interests in various domains.
 
-[<div class="tenor-gif-embed" data-postid="10161066802793508285" data-share-method="host" data-aspect-ratio="0.94958" data-width="100%"><a href="https://tenor.com/view/peach-goma-pc-headset-gif-10161066802793508285">Peach Goma Pc Headset Sticker</a>from <a href="https://tenor.com/search/peach+goma+pc-stickers">Peach Goma Pc Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>]
+ <a href="https://tenor.com/search/peach+goma+pc-stickers">Peach Goma Pc Stickers</a></div>
 
 ## Table of Contents 🤨        
 
