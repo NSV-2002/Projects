@@ -2,7 +2,6 @@
 
 Welcome to my projects repository! This repository contains a collection of my personal projects, ranging from small scripts to larger applications. Each project is designed to showcase my skills and interests in various domains.
 
- <a href="https://tenor.com/search/peach+goma+pc-stickers">Peach Goma Pc Stickers</a></div>
 
 ## Table of Contents 🤨        
 
