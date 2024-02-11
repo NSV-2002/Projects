@@ -1,0 +1,46 @@
+header{
+     background-color: bisque;
+     padding: 1%;
+}
+h1{
+    background-color: beige;
+    [padding: 5%;]
+}
+
+
+div
+{
+    background-color: teal;
+    font-style: italic;
+    text-align: center;
+    text-transform: capitalize;
+    border: 1%;
+    margin-top: 0%;
+    height: 200PX;
+  
+    label 
+    {
+       color:black;
+       align-content: baseline;
+       
+    }
+    button 
+    {
+      background-color:green;
+    }
+
+     input
+    {
+     background-color: orange;
+     color: red;
+     contain: size ;
+    }
+    /*footer
+    {
+        align-items: center;
+    }*/
+}
+
+
+
+
