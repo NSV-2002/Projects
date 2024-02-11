@@ -14,7 +14,8 @@ Welcome to my projects repository! This repository contains a collection of my p
 
 In this repository, you'll find a variety of projects that I've worked on. These projects cover a range of topics and technologies, including but not limited to web development, machine learning, data analysis, and more.
 
-## Projects![Uploading CatWorkGIF.gif…]()
+## Projects![<div class="tenor-gif-embed" data-postid="10161066802793508285" data-share-method="host" data-aspect-ratio="0.94958" data-width="100%"><a href="https://tenor.com/view/peach-goma-pc-headset-gif-10161066802793508285">Peach Goma Pc Headset Sticker</a>from <a href="https://tenor.com/search/peach+goma+pc-stickers">Peach Goma Pc Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://github.com/NSV-2002/projects/assets/144188977/478f57ae-2bc9-4af2-97ff-d25807234405)
+]()
 
 
 ### [Jai Shree ram generator](https://github.com/NSV-2002/projects/tree/main/shree%20ram)
