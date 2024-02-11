@@ -10,13 +10,17 @@
     <img src="Google_1998_logo.png" alt="google logo" style="align-items: center;">
     <div id="col    ">
         <p>search the web using Google!</p>
-        <input type="text" id="search box" size="30px"><br>     
+        <form id="search-form" action="https://www.google.com/search" method="GET">
+            <input id="search-box" type="text" name="q" placeholder="Search Google..."><br>
+            
+         
         <select name="results" id="result">
             <option value="results">10 result </option>
             <option value="new">hello</option>
         </select>
-        <button title="search">Google search</button>
+        <input id="search-button" type="submit" value="Google Search">
         <button title="i am feeling lucky!">I'am feeling lucky</button><br>
+    </form>
         <p><em>Index contains ~ 25 million pages(soon to be much bigger)</em></p>
     </div>
     <a href="https://en.wikipedia.org/wiki/Google" target="_blank" id="about"><b>About Google!</b></a>
